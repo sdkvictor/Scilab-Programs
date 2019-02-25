@@ -1,0 +1,9 @@
+////////////////////////////////////////////////////
+// ElimGauss.sce
+// 
+// Resuelve un sistema de ecuaciones con el método de Eliminación Gaussiana
+// 
+// Erick González
+// Victor Villarreal
+// 6/2/2019 versión 1.0
+////////////////////////////////////////////////////
